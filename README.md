@@ -1,0 +1,1 @@
+The Pizza Bill Generator is a console-based Java application that calculates the total bill for a pizza order. Users can choose different pizza sizes, toppings, and additional options, and the program computes the total bill based on the selected items.
